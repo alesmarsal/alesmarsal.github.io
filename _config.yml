@@ -1,5 +1,4 @@
 title: "ChatGPT Productivity Workshop"
 description: "A peer-to-peer workshop on effectively using ChatGPT to boost productivity."
 theme: jekyll-theme-minimal  # This sets the theme for your site
-baseurl: "/chatgpt-productivity-workshop"  # Only add this if the site is in a subdirectory
-url: "https://your-username.github.io"  # Replace with your GitHub username
+url: "https://alesmarsal.github.io"  # Replace with your GitHub username
